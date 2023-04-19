@@ -6,3 +6,4 @@ elif (num%2==0):
     print("The given number is even number")
 else:
     print("The given number is odd number")
+    #successfully published 
